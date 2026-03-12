@@ -12,10 +12,10 @@ about:
       href: mailto:ikim124@ucr.edu
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=Op0POqIAAAAJ&hl=en&oi=ao
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/InikKim
 ---
 
 ## Hi, I'm Inik Kim
@@ -24,7 +24,7 @@ I am a Ph.D. student in the [Department of Psychology](https://psychology.ucr.ed
 
 My research broadly focuses on **visual working memory**, **attention**, and **perception**. I am particularly interested in understanding how the brain encodes, maintains, and retrieves visual information, and how attention shapes these processes.
 
-Before joining UCR, I completed my M.A. in Psychology at **Jeonbuk National University** (South Korea), where I studied affective neuroscience and psychophysiology with Dr. Jongwan Kim and Dr. Chang-Ho Park.
+Before joining UCR, I completed my B.A. and M.A. in Psychology at **Jeonbuk National University** (South Korea) (https://psy.jbnu.ac.kr/psy/index.do), where I studied affective neuroscience and psychophysiology with Dr. Jongwan Kim and Dr. Chang-Ho Park.
 
 ---
 
