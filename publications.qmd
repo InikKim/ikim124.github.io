@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=Op0POqIAAAAJ&hl=en&oi=ao) profile.
+For a full list, see my [Google Scholar](https://scholar.google.com/citations?user=Op0POqIAAAAJ&hl=en) profile.
 
 ---
 
@@ -10,13 +10,13 @@ For a full list, see my [Google Scholar](https://scholar.google.com/citations?us
 
 **2025**
 
-Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). Attention is Still a Productive Framework. *Behavioral and Brain Sciences*, 48, e148.
+Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). [Attention is Still a Productive Framework.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/attention-is-still-a-productive-framework/3B5B7035DF40617DA70C350E3DC925D6) *Behavioral and Brain Sciences*, 48, e148.
 
 ---
 
 **2024**
 
-Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). Discrimination of mnemonic similarity is associated with short-term and long-term memory precision. *Memory & Cognition*, 1–13.
+Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). [Discrimination of mnemonic similarity is associated with short-term and long-term memory precision.](https://link.springer.com/article/10.3758/s13421-024-01648-y) *Memory & Cognition*, 1–13.
 
 **Kim, I.**, & Kim, J. (2024). Affective Representation of Behavioral and Physiological Responses to Emotional Videos using Wearable Devices. *The Korean Journal of Emotion & Sensibility*.
 
@@ -24,7 +24,7 @@ Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). Discriminatio
 
 **2023**
 
-**Kim, I.**, Kim, H., & Kim, J. (2023). Examining the consistency of continuous affect annotations and psychophysiological measures in response to emotional videos. *International Journal of Psychophysiology*, 193, 112242.
+**Kim, I.**, Kim, H., & Kim, J. (2023). [Examining the consistency of continuous affect annotations and psychophysiological measures in response to emotional videos.](https://www.sciencedirect.com/science/article/abs/pii/S016787602300507X) *International Journal of Psychophysiology*, 193, 112242.
 
 Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tastes and intensity using multivariate analyses. *The Korean Journal of Emotion & Sensibility*, 26(2), 39–52.
 
