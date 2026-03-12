@@ -1,0 +1,85 @@
+/* ── General ── */
+body {
+  font-family: 'Georgia', serif;
+  color: #2c2c2c;
+  line-height: 1.7;
+}
+
+/* ── Navbar ── */
+.navbar {
+  background-color: #1a3a5c !important;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #ffffff !important;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.nav-link:hover {
+  color: #aad4f5 !important;
+}
+
+/* ── About / index page ── */
+#quarto-content .about-entity .about-links a {
+  background-color: #1a3a5c;
+  color: white;
+  border-radius: 6px;
+  padding: 6px 14px;
+  font-size: 0.9em;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+#quarto-content .about-entity .about-links a:hover {
+  background-color: #2a5c8a;
+}
+
+/* ── Headings ── */
+h1, h2, h3 {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #1a3a5c;
+}
+
+h2 {
+  border-bottom: 2px solid #d0e4f4;
+  padding-bottom: 4px;
+  margin-top: 2rem;
+}
+
+/* ── Publications ── */
+p strong {
+  color: #1a3a5c;
+}
+
+/* ── CV table ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th {
+  background-color: #1a3a5c;
+  color: white;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+tr:nth-child(even) td {
+  background-color: #f5f9fd;
+}
+
+/* ── Footer ── */
+.nav-footer {
+  background-color: #f0f4f8;
+  color: #666;
+  font-size: 0.85em;
+  text-align: center;
+  padding: 12px;
+}

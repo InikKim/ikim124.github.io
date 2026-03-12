@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Inik Kim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:ikim124@ucr.edu
+        text: Contact
+      - icon: google
+        href: https://scholar.google.com
+        text: Google Scholar
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

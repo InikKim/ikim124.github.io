@@ -1,0 +1,52 @@
+---
+title: ""
+page-layout: full
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  image-width: 200px
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ikim124@ucr.edu
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com
+    - icon: github
+      text: GitHub
+      href: https://github.com
+---
+
+## Hi, I'm Inik Kim
+
+I am a Ph.D. student in the [Department of Psychology](https://psychology.ucr.edu/) at the **University of California, Riverside**, working in the [Cognitive Neuroscience of Perception, Attention, and Memory Lab](https://memory.ucr.edu/) under the supervision of **Dr. Weiwei Zhang**.
+
+My research broadly focuses on **visual working memory**, **attention**, and **perception**. I am particularly interested in understanding how the brain encodes, maintains, and retrieves visual information, and how attention shapes these processes.
+
+Before joining UCR, I completed my M.A. in Psychology at **Jeonbuk National University** (South Korea), where I studied affective neuroscience and psychophysiology with Dr. Jongwan Kim and Dr. Chang-Ho Park.
+
+---
+
+## Research Interests
+
+- Visual Working Memory
+- Attention & Perception
+- Cognitive Neuroscience
+- Affective Neuroscience & Psychophysiology
+- Computational Modeling
+
+---
+
+## Education
+
+**Ph.D. in Psychology** *(2023 – present)*
+University of California, Riverside, USA
+Advisor: Dr. Weiwei Zhang
+
+**M.A. in Psychology** *(2018 – 2020)*
+Jeonbuk National University, South Korea
+Advisor: Dr. Chang-Ho Park
+
+**B.A. in Psychology** *(2011 – 2017)*
+Jeonbuk National University, South Korea
