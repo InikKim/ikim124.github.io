@@ -101,11 +101,10 @@ Jeonbuk National University
 
 | Category | Tools |
 |---|---|
-| Data Analysis | MATLAB, Python, R, SPSS, JASP, Jamovi |
-| Statistical Analysis | R, SPSS, JASP |
-| Computational Modeling | MATLAB |
+| Programming | Python, MATLAB, R |
+| Statistical Analysis | SPSS, JASP, Jamovi, R |
+| Computational Modeling | MATLAB, Python |
 | Machine Learning | Python |
-| Programming | Python, MATLAB |
 
 ---
 

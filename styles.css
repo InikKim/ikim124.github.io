@@ -47,18 +47,40 @@ h2 {
   margin-top: 2rem;
 }
 
+/* ── Links ── */
+a {
+  color: #1a6aab;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1a3a5c;
+}
+
 /* ── Publications ── */
 p strong {
   color: #1a3a5c;
+}
+
+/* year labels */
+.publications-year {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 0.95em;
+  font-weight: 700;
+  color: #1a3a5c;
+  letter-spacing: 0.03em;
+  margin-top: 1.2rem;
+  margin-bottom: 0.2rem;
 }
 
 /* ── Publication figure layout ── */
 .pub-figures-row {
   display: flex;
   gap: 0.75rem;
-  margin-top: 0.5rem;
-  margin-bottom: 1rem;
-  max-width: 420px;
+  justify-content: center;
+  margin: 0.75rem auto 0.4rem auto;
+  max-width: 560px;
 }
 
 .pub-figures-row img {
@@ -66,6 +88,22 @@ p strong {
   border-radius: 6px;
   border: 1px solid #d0e4f4;
   background-color: #f5f9fd;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.pub-figures-row img:hover {
+  box-shadow: 0 4px 14px rgba(26, 58, 92, 0.15);
+  transform: translateY(-1px);
+}
+
+.pub-fig-caption {
+  font-size: 0.83em;
+  color: #666;
+  text-align: center;
+  font-style: italic;
+  margin: 0 auto 1.4rem auto;
+  max-width: 560px;
+  line-height: 1.5;
 }
 
 /* ── CV table ── */
