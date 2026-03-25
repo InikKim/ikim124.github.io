@@ -34,15 +34,15 @@ Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tast
 
 **Kim, I.**, Kim, H., Jang, J., & Kim, J. (2022). Measuring consistency of affective responses to ASMR stimuli across individuals using intersubject correlation. *The Korean Journal of Cognitive and Biological Psychology*, 34(2), 121–133.
 
-<div class="pub-figures-row">
-<img src="images/kim2022_bar.png" alt="ISC bar chart">
-<img src="images/kim2022_isc.png" alt="ISC matrix">
+<div style="display:flex; flex-direction:row; gap:8px; justify-content:center; margin:0.75rem 0 0.3rem 0;">
+<img src="images/kim2022_bar.png" alt="ISC bar chart" style="width:170px; height:auto; border-radius:5px; border:1px solid #d0e4f4;">
+<img src="images/kim2022_isc.png" alt="ISC matrix" style="width:170px; height:auto; border-radius:5px; border:1px solid #d0e4f4;">
 </div>
 
 **Kim, I.**, & Park, C. (2022). The influence of perceptual load on target identification and negative repetition effect in post-cueing forced choice task. *Korean Journal of Cognitive Science*, 33(1), 1–22.
 
-<div class="pub-figures-row">
-<img src="images/kim2022_kjcs.png" alt="Task procedure diagram">
+<div style="display:flex; justify-content:center; margin:0.75rem 0 0.3rem 0;">
+<img src="images/kim2022_kjcs.png" alt="Task procedure diagram" style="width:350px; height:auto; border-radius:5px; border:1px solid #d0e4f4;">
 </div>
 
 ::: {.pub-fig-caption}
