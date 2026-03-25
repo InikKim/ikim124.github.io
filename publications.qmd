@@ -77,8 +77,9 @@ Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tast
 ::::
 
 :::: {.pub-entry}
-::: {.pub-figure}
-![](images/kim2022_kjcs.png)
+::: {.pub-figures-row}
+![](images/kim2022_bar.png)
+![](images/kim2022_isc.png)
 :::
 ::: {.pub-text}
 **Kim, I.**, & Park, C. (2022). The influence of perceptual load on target identification and negative repetition effect in post-cueing forced choice task. *Korean Journal of Cognitive Science*, 33(1), 1–22.
