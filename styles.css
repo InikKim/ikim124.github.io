@@ -78,19 +78,19 @@ p strong {
 .pub-figures-row {
   display: flex;
   flex-direction: row;
-  gap: 0.6rem;
+  gap: 0.5rem;
   justify-content: center;
   align-items: flex-start;
-  margin: 0.75rem auto 0.4rem auto;
-  max-width: 480px;
+  margin: 0.75rem auto 0.3rem auto;
+  max-width: 360px;
 }
 
 .pub-figures-row img {
   flex: 1 1 0;
   min-width: 0;
-  max-width: 240px;
+  max-width: 175px;
   height: auto;
-  border-radius: 6px;
+  border-radius: 5px;
   border: 1px solid #d0e4f4;
   background-color: #f5f9fd;
   display: block;
@@ -98,7 +98,7 @@ p strong {
 }
 
 .pub-figures-row img:only-child {
-  max-width: 480px;
+  max-width: 360px;
   flex: none;
   width: 100%;
 }
@@ -109,13 +109,13 @@ p strong {
 }
 
 .pub-fig-caption {
-  font-size: 0.83em;
-  color: #666;
+  font-size: 0.74em;
+  color: #777;
   text-align: center;
   font-style: italic;
-  margin: 0 auto 1.4rem auto;
-  max-width: 480px;
-  line-height: 1.5;
+  margin: 0.1rem auto 1.2rem auto;
+  max-width: 360px;
+  line-height: 1.4;
 }
 
 /* ── CV table ── */
