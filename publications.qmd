@@ -82,10 +82,6 @@ Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tast
 :::
 ::: {.pub-text}
 **Kim, I.**, & Park, C. (2022). The influence of perceptual load on target identification and negative repetition effect in post-cueing forced choice task. *Korean Journal of Cognitive Science*, 33(1), 1–22.
-
-::: {.pub-findings}
-**Key Findings:** Three experiments examined whether perceptual load modulates the Negative Repetition Effect (NRE) — the accuracy cost when a briefly exposed target shares the same identity as its flanker — using a post-cueing forced-choice task. Experiment 1 found a trend toward NRE but no effect of load (manipulated via flanker similarity). Experiment 2 found a significant NRE and a load effect on overall accuracy, but crucially no interaction between load and NRE. Experiment 3 reinforced load demands using positional variability, yet again found no load effect. Together, the results suggest that the divided-attention demands of the post-cueing task restrict perceptual load's influence on early perceptual processing, challenging a straightforward extension of Load Theory to this paradigm.
-:::
 :::
 ::::
 
