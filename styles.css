@@ -77,18 +77,30 @@ p strong {
 /* ── Publication figure layout ── */
 .pub-figures-row {
   display: flex;
-  gap: 0.75rem;
+  flex-direction: row;
+  gap: 0.6rem;
   justify-content: center;
+  align-items: flex-start;
   margin: 0.75rem auto 0.4rem auto;
-  max-width: 560px;
+  max-width: 480px;
 }
 
 .pub-figures-row img {
-  width: 100%;
+  flex: 1 1 0;
+  min-width: 0;
+  max-width: 240px;
+  height: auto;
   border-radius: 6px;
   border: 1px solid #d0e4f4;
   background-color: #f5f9fd;
+  display: block;
   transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.pub-figures-row img:only-child {
+  max-width: 480px;
+  flex: none;
+  width: 100%;
 }
 
 .pub-figures-row img:hover {
@@ -102,7 +114,7 @@ p strong {
   text-align: center;
   font-style: italic;
   margin: 0 auto 1.4rem auto;
-  max-width: 560px;
+  max-width: 480px;
   line-height: 1.5;
 }
 
