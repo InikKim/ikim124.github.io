@@ -53,46 +53,19 @@ p strong {
 }
 
 /* ── Publication figure layout ── */
-.pub-entry {
+.pub-figures-row {
   display: flex;
-  gap: 1.5rem;
-  align-items: flex-start;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
   margin-bottom: 1rem;
+  max-width: 420px;
 }
 
-.pub-figure {
-  flex: 0 0 130px;
-}
-
-.pub-figure img,
 .pub-figures-row img {
   width: 100%;
   border-radius: 6px;
   border: 1px solid #d0e4f4;
   background-color: #f5f9fd;
-}
-
-.pub-figures-row {
-  display: flex;
-  flex: 0 0 270px;
-  gap: 0.4rem;
-}
-
-.pub-text {
-  flex: 1;
-  padding-top: 0.2rem;
-}
-
-
-@media (max-width: 600px) {
-  .pub-entry {
-    flex-direction: column;
-  }
-  .pub-figure {
-    flex: 0 0 auto;
-    width: 100%;
-    max-width: 260px;
-  }
 }
 
 /* ── CV table ── */

@@ -10,81 +10,36 @@ For a full list, see my [Google Scholar](https://scholar.google.com/citations?us
 
 **2025**
 
-:::: {.pub-entry}
-::: {.pub-figure}
-![](images/ma2025_bbs.png)
-:::
-::: {.pub-text}
 Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). [Attention is Still a Productive Framework.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/attention-is-still-a-productive-framework/3B5B7035DF40617DA70C350E3DC925D6) *Behavioral and Brain Sciences*, 48, e148.
-:::
-::::
 
 ---
 
 **2024**
 
-:::: {.pub-entry}
-::: {.pub-figure}
-![](images/xie2024_mc.png)
-:::
-::: {.pub-text}
 Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). [Discrimination of mnemonic similarity is associated with short-term and long-term memory precision.](https://link.springer.com/article/10.3758/s13421-024-01648-y) *Memory & Cognition*, 1–13.
-:::
-::::
 
-:::: {.pub-entry}
-::: {.pub-figure}
-![](images/kim2024_kjes.png)
-:::
-::: {.pub-text}
 **Kim, I.**, & Kim, J. (2024). Affective Representation of Behavioral and Physiological Responses to Emotional Videos using Wearable Devices. *The Korean Journal of Emotion & Sensibility*.
-:::
-::::
 
 ---
 
 **2023**
 
-:::: {.pub-entry}
-::: {.pub-figure}
-![](images/kim2023_ijp.png)
-:::
-::: {.pub-text}
 **Kim, I.**, Kim, H., & Kim, J. (2023). [Examining the consistency of continuous affect annotations and psychophysiological measures in response to emotional videos.](https://www.sciencedirect.com/science/article/abs/pii/S016787602300507X) *International Journal of Psychophysiology*, 193, 112242.
-:::
-::::
 
-:::: {.pub-entry}
-::: {.pub-figure}
-![](images/park2023_kjes.png)
-:::
-::: {.pub-text}
 Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tastes and intensity using multivariate analyses. *The Korean Journal of Emotion & Sensibility*, 26(2), 39–52.
-:::
-::::
 
 ---
 
 **2022**
 
-:::: {.pub-entry}
-::: {.pub-figure}
-![](images/kim2022_kkcbp.png)
-:::
-::: {.pub-text}
 **Kim, I.**, Kim, H., Jang, J., & Kim, J. (2022). Measuring consistency of affective responses to ASMR stimuli across individuals using intersubject correlation. *The Korean Journal of Cognitive and Biological Psychology*, 34(2), 121–133.
-:::
-::::
 
-:::: {.pub-entry}
 ::: {.pub-figures-row}
 ![](images/kim2022_bar.png)
 ![](images/kim2022_isc.png)
 :::
-::: {.pub-text}
+
 **Kim, I.**, & Park, C. (2022). The influence of perceptual load on target identification and negative repetition effect in post-cueing forced choice task. *Korean Journal of Cognitive Science*, 33(1), 1–22.
-:::
-::::
 
 ---
 
