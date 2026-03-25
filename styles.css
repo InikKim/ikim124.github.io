@@ -76,6 +76,22 @@ p strong {
   padding-top: 0.2rem;
 }
 
+/* ── Key findings box ── */
+.pub-findings {
+  margin-top: 0.6rem;
+  padding: 0.6rem 0.9rem;
+  background-color: #f0f6fd;
+  border-left: 3px solid #1a3a5c;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88em;
+  color: #3a3a3a;
+  line-height: 1.6;
+}
+
+.pub-findings strong {
+  color: #1a3a5c;
+}
+
 @media (max-width: 600px) {
   .pub-entry {
     flex-direction: column;
