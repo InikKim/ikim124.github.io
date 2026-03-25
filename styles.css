@@ -61,14 +61,21 @@ p strong {
 }
 
 .pub-figure {
-  flex: 0 0 180px;
+  flex: 0 0 130px;
 }
 
-.pub-figure img {
+.pub-figure img,
+.pub-figures-row img {
   width: 100%;
   border-radius: 6px;
   border: 1px solid #d0e4f4;
   background-color: #f5f9fd;
+}
+
+.pub-figures-row {
+  display: flex;
+  flex: 0 0 270px;
+  gap: 0.4rem;
 }
 
 .pub-text {
