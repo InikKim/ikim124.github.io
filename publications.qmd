@@ -8,6 +8,12 @@ For a full list, see my [Google Scholar](https://scholar.google.com/citations?us
 
 ## Journal Articles
 
+**2026**
+
+Ma, T., Golding, J., **Kim, I.**, Liu, S., & Varastegan, S. (2026). [Beyond the Curve: Visual Working Memory and the Illusion of Understanding.](https://link.springer.com/article/10.1007/s42113-026-00320-9) *Computational Brain & Behavior*.
+
+---
+
 **2025**
 
 Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). [Attention is Still a Productive Framework.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/attention-is-still-a-productive-framework/3B5B7035DF40617DA70C350E3DC925D6) *Behavioral and Brain Sciences*, 48, e148.
