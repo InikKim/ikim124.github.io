@@ -18,7 +18,7 @@ about:
       href: https://github.com/InikKim
 ---
 
-## Hi, I'm Inik Kim
+## Hi, I'm Inik Kim (ikim124@ucr.edu)
 
 I am a Ph.D. student in the [Department of Psychology](https://psychology.ucr.edu/) at the **University of California, Riverside**, working in the [Cognitive Neuroscience of Perception, Attention, and Memory Lab](https://memory.ucr.edu/) under the supervision of **Dr. Weiwei Zhang**.
 
