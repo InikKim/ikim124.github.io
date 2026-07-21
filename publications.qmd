@@ -26,6 +26,8 @@ Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). [Discriminati
 
 **Kim, I.**, & Kim, J. (2024). Affective Representation of Behavioral and Physiological Responses to Emotional Videos using Wearable Devices. *The Korean Journal of Emotion & Sensibility*.
 
+Yang, I., **Kim, I.**, & Kim, J. (2024). Classifying and Representing Emotions based on EEG Data Collected with Wearable Devices. *Science of Emotion and Sensibility*, 27(4), 63–72.
+
 ---
 
 **2023**
