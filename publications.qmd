@@ -48,13 +48,15 @@ Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tast
 
 ## Conference Presentations
 
+::: {.panel-tabset}
+
+## International
+
 **2026**
 
 Ma, T., **Kim, I.**, Punzalan, D., & Zhang, W. (May 2026). Revisiting evidence against the discrete-capacity account of STM limits: objective guessing obscured by representational modeling. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2026_Ma_DiscreteCapacity.pdf)]
 
 **Kim, I.**, Ma, T., Liu, L., & Zhang, W. (May 2026). Dissociating Strength and Precision in Working Memory Representations: An Integrated Modeling Approach. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2026_TCCk_RDM_v1.5.pdf)] [[Code](https://github.com/InikKim/tcck-rdm-vss26)]
-
-De Silva, R., Ospina, S., Jatana, S., Nguyen, K., Punzalan, D., Chang, M., Yang, V., Vemulpally, S., **Kim, I.**, & Zhang, W. (May 2026). Competition Between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at R'PSYC 2026 (8th Annual Undergraduate Psychology Research Conference, presented by Psi Chi), University of California, Riverside. [[PDF](pdfs/RPYSC2026.pdf)]
 
 ---
 
@@ -82,6 +84,10 @@ Lee, S., **Kim, I.**, & Kim, J. (April 2022). Comparison between standard deviat
 
 **Kim, I.**, Jang, J., & Kim, J. (November 2021). Measuring consistency between individuals of affective responses to ASMR stimuli using inter-subject correlation. Talk presented at the International Conference of Korean Emotion and Sensibility Society, Virtual.
 
+## National
+
+**2021**
+
 Lee, B., Gho, H., Cho, E., **Kim, I.**, Kim, H., & Kim, J. (August 2021). Effects of pleasant and unpleasant ASMR on working memory. Poster at the Annual Meeting of Korean General Psychology Society, Virtual.
 
 Choi, Y., Choi, S., Lee, B., **Kim, I.**, & Kim, J. (August 2021). The effect of olfactory stimulation on emotional stability and working memory. Poster at the Annual Meeting of Korean General Psychology Society, Virtual.
@@ -95,3 +101,11 @@ Gho, H., Choi, E., Kim, H., Jang, J., **Kim, I.**, & Kim, J. (August 2021). The 
 **2020**
 
 **Kim, I.**, & Park, C. (August 2020). The influence on negative repetition effect of perceptual load. Poster at the Annual Meeting of Korean Cognitive and Biological Psychology Society, Virtual.
+
+## University
+
+**2026**
+
+De Silva, R., Ospina, S., Jatana, S., Nguyen, K., Punzalan, D., Chang, M., Yang, V., Vemulpally, S., **Kim, I.**, & Zhang, W. (May 2026). Competition Between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at R'PSYC 2026 (8th Annual Undergraduate Psychology Research Conference, presented by Psi Chi), University of California, Riverside. [[PDF](pdfs/RPYSC2026.pdf)]
+
+:::
