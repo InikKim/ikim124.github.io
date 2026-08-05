@@ -50,7 +50,7 @@ Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tast
 
 ::: {.panel-tabset}
 
-## International
+### International
 
 **2026**
 
@@ -84,7 +84,7 @@ Lee, S., **Kim, I.**, & Kim, J. (April 2022). Comparison between standard deviat
 
 **Kim, I.**, Jang, J., & Kim, J. (November 2021). Measuring consistency between individuals of affective responses to ASMR stimuli using inter-subject correlation. Talk presented at the International Conference of Korean Emotion and Sensibility Society, Virtual. [[Slides](pdfs/ASMR_ISC_Pres1025_02.pdf)]
 
-## National & University
+### National & University
 
 **2026**
 
