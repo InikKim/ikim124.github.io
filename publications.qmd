@@ -54,6 +54,8 @@ Ma, T., **Kim, I.**, Punzalan, D., & Zhang, W. (May 2026). Revisiting evidence a
 
 **Kim, I.**, Ma, T., Liu, L., & Zhang, W. (May 2026). Dissociating Strength and Precision in Working Memory Representations: An Integrated Modeling Approach. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2026_TCCk_RDM_v1.5.pdf)] [[Code](https://github.com/InikKim/tcck-rdm-vss26)]
 
+De Silva, R., Ospina, S., Jatana, S., Nguyen, K., Punzalan, D., Chang, M., Yang, V., Vemulpally, S., **Kim, I.**, & Zhang, W. (May 2026). Competition Between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at R'PSYC 2026 (8th Annual Undergraduate Psychology Research Conference, presented by Psi Chi), University of California, Riverside. [[PDF](pdfs/RPYSC2026.pdf)]
+
 ---
 
 **2025**
