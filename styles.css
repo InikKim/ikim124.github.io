@@ -21,17 +21,26 @@ body {
 }
 
 /* ── Tabsets (e.g., International / National & University) ── */
-.panel-tabset .nav-tabs .nav-link {
-  color: #1a6aab;
+.nav-tabs .nav-link,
+.panel-tabset .nav-tabs .nav-link,
+.panel-tabset [role="tab"],
+ul.panel-tabset-tabby a {
+  color: #1a6aab !important;
   font-family: 'Helvetica Neue', sans-serif;
 }
 
-.panel-tabset .nav-tabs .nav-link:hover {
-  color: #1a3a5c;
+.nav-tabs .nav-link:hover,
+.panel-tabset .nav-tabs .nav-link:hover,
+.panel-tabset [role="tab"]:hover,
+ul.panel-tabset-tabby a:hover {
+  color: #1a3a5c !important;
 }
 
-.panel-tabset .nav-tabs .nav-link.active {
-  color: #1a3a5c;
+.nav-tabs .nav-link.active,
+.panel-tabset .nav-tabs .nav-link.active,
+.panel-tabset [role="tab"][aria-selected="true"],
+ul.panel-tabset-tabby a.active {
+  color: #1a3a5c !important;
   font-weight: 600;
 }
 
