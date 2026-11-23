@@ -168,12 +168,16 @@ Instructor: Dr. Ian Ballard
 
 ---
 
-## Service & Mentoring
+## Research Mentoring & Lab Service
 
 **Undergraduate Research Mentor** *(2023 – present)*
 Cognitive Neuroscience of Perception, Attention, and Memory Lab, University of California, Riverside
 
-Mentor undergraduate research assistants on study design, data collection, and analysis of working memory experiments.
+- Train undergraduate research assistants in experimental procedures, participant testing, and data collection for studies of visual working memory and mnemonic discrimination.
+- Guide data analysis and computational modeling, including MATLAB code, mixture-model fitting, visualization, and interpretation of behavioral results.
+- Mentor undergraduate teams in abstract writing, poster design, and presentation preparation for UCLA's Psychology Undergraduate Research Conference, UCR's Undergraduate Research & Creative Activities Symposium, and R'PSYC (2025–2026).
+- Provide ongoing manuscript guidance to Kara Nguyen and Daniel Punzalan on working memory and mnemonic discrimination, including feedback on analyses, figures, scientific writing, and revisions for an undergraduate research journal submission.
+- Coordinate research-assistant meetings, journal-club discussions, and onboarding and training with senior undergraduate researchers; support students in developing independent research and scientific communication skills.
 
 ---
 

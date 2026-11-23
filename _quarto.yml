@@ -25,6 +25,8 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - research.css
     toc: false
     page-layout: full
