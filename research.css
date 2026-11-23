@@ -1,0 +1,35 @@
+/* Original poster figures on the About page. */
+.representative-work .research-project {
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem;
+  border: 1px solid #d0e4f4;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.representative-work h3 {
+  margin-top: 0;
+}
+
+.representative-work figure {
+  margin: 1.25rem 0;
+}
+
+.representative-work .research-figure {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.representative-work figcaption {
+  color: #515b65;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .representative-work .research-project {
+    padding: 0.875rem;
+  }
+}

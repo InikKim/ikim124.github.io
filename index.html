@@ -45,7 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f35a81a4717690815b2013502477d714.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cb61c712ca1a7fe70a83faed8e4da2d7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,6 +79,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="research.css">
 </head>
 
 <body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
@@ -158,6 +162,45 @@ ul.task-list li input[type="checkbox"] {
 <p>I am a Ph.D.&nbsp;student in the <a href="https://psychology.ucr.edu/">Department of Psychology</a> at the <strong>University of California, Riverside</strong>, working in the <a href="https://memory.ucr.edu/">Cognitive Neuroscience of Perception, Attention, and Memory Lab</a> under the supervision of <strong>Dr.&nbsp;Weiwei Zhang</strong>.</p>
 <p>My research broadly focuses on <strong>visual working memory</strong>, <strong>attention</strong>, and <strong>perception</strong>. I am particularly interested in understanding the underlying processes of human cognition and behavior, such as memory using cognitive modeling and advanced data analysis techniques.</p>
 <p>Before joining UCR, I completed my B.A. and M.A.&nbsp;in Psychology at <a href="https://psy.jbnu.ac.kr/psy/index.do">Jeonbuk National University</a> (South Korea) , where I studied affective neuroscience and psychophysics with Dr.&nbsp;Jongwan Kim and Dr.&nbsp;Chang-Ho Park.</p>
+<hr>
+</section>
+<section id="representative-work" class="level2">
+<h2 data-anchor-id="representative-work">Representative Work</h2>
+<p>How do memory systems compete, and what determines the quality of a remembered representation? These projects combine behavioral experiments with computational modeling. Select a figure to enlarge it.</p>
+<div class="representative-work">
+<section id="interference-between-stm-and-ltm-precision" class="level3 research-project">
+<h3 data-anchor-id="interference-between-stm-and-ltm-precision">Interference between STM and LTM precision</h3>
+<p><em>Kim, Won, Acebo, &amp; Zhang · VSS 2025 conference poster</em></p>
+<p>Distinguishing similar objects in long-term memory (LTM) can interfere with the precision of information held in short-term memory (STM). In a dual-task experiment, lure discrimination reduced the precision of orientation memory, while the model’s memory-success probability showed no detected difference across trial types. These behavioral findings support competition between mnemonic discrimination and STM precision.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/stm-ltm-precision-results.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="ROC mixture-model estimates in Experiment 2 (n = 44). Lure trials reduced precision (d′) relative to target and foil trials; memory-success probability (Pm, labeled capacity) showed no detected difference."><img src="images/stm-ltm-precision-results.png" class="research-figure img-fluid figure-img" alt="Two bar charts from the VSS 2025 poster. Precision d-prime is lower for lure trials than for target or foil trials. Memory-success probability Pm is similar across the three trial types."></a></p>
+<figcaption>ROC mixture-model estimates in Experiment 2 (n = 44). Lure trials reduced precision (d′) relative to target and foil trials; memory-success probability (Pm, labeled capacity) showed no detected difference.</figcaption>
+</figure>
+</div>
+<p><a href="pdfs/VSS2025_Precision_MST_56w_v5.1.pdf">View VSS 2025 poster</a></p>
+</section>
+<section id="separating-memory-strength-and-precision-with-random-dot-motion" class="level3 research-project">
+<h3 data-anchor-id="separating-memory-strength-and-precision-with-random-dot-motion">Separating memory strength and precision with random-dot motion</h3>
+<p><em>Kim, Ma, Liu, &amp; Zhang · VSS 2026 conference poster</em></p>
+<p>Does a less accurate memory reflect a weaker signal or a less precise representation? Using a random-dot motion (RDM) recall task and a modified Target Confusability Competition model, we estimated memory strength (d′) and precision (κ) separately.</p>
+<p><strong>Motion variability:</strong> Increasing directional noise from low to moderate levels reduced precision with little change in strength. At the highest noise level, both estimates worsened.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/rdm-variability-results.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Experiment 1 (n = 38): parameter estimates across motion-variability conditions and model comparisons. Between low and moderate noise, the model allowing precision to vary while fixing strength was preferred for 23 of 38 participants."><img src="images/rdm-variability-results.png" class="research-figure img-fluid figure-img" alt="Three plots from the VSS 2026 poster. Precision falls as motion variability increases; strength changes little from low to moderate variability and falls at high variability. Model comparisons favor changes in precision for the low-to-moderate contrast."></a></p>
+<figcaption>Experiment 1 (n = 38): parameter estimates across motion-variability conditions and model comparisons. Between low and moderate noise, the model allowing precision to vary while fixing strength was preferred for 23 of 38 participants.</figcaption>
+</figure>
+</div>
+<p><strong>Motion coherence:</strong> Higher coherence increased strength but decreased the estimated precision. Model comparisons favored a strength-varying, fixed-precision model for 27 of 36 participants. The pattern supports distinct effects of the two noise manipulations, while also showing a trade-off between the fitted parameters.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/rdm-coherence-results.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Experiment 2 (n = 36): precision and strength estimates for low (80%) and high (100%) coherence, alongside model comparisons. Higher coherence increased strength and reduced the estimated precision."><img src="images/rdm-coherence-results.png" class="research-figure img-fluid figure-img" alt="Three plots from the VSS 2026 poster. Higher motion coherence lowers estimated precision and raises strength. A model varying strength while fixing precision has the lowest BIC for 27 of 36 participants."></a></p>
+<figcaption>Experiment 2 (n = 36): precision and strength estimates for low (80%) and high (100%) coherence, alongside model comparisons. Higher coherence increased strength and reduced the estimated precision.</figcaption>
+</figure>
+</div>
+<p><a href="pdfs/VSS2026_TCCk_RDM_v1.5.pdf">View VSS 2026 poster</a> · <a href="https://github.com/InikKim/tcck-rdm-vss26">Analysis code</a></p>
+</section>
+</div>
 <hr>
 </section>
 <section id="research-interests" class="level2">
@@ -652,6 +695,38 @@ ul.task-list li input[type="checkbox"] {
   window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

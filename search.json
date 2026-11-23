@@ -42,11 +42,11 @@
     "text": "Teaching Experience\nTeaching Assistant, PSYC 134 (2023 – present) University of California, Riverside Instructors: Dr. Weiwei Zhang, Dr. Halle Dimsdale-Zucker, and Dr. Ilana Bennett\nTeaching Assistant, PSYC 189 (2024 – present) University of California, Riverside Instructor: Dr. Ian Ballard"
   },
   {
-    "objectID": "cv.html#service-mentoring",
-    "href": "cv.html#service-mentoring",
+    "objectID": "cv.html#research-mentoring-lab-service",
+    "href": "cv.html#research-mentoring-lab-service",
     "title": "Curriculum Vitae",
-    "section": "Service & Mentoring",
-    "text": "Service & Mentoring\nUndergraduate Research Mentor (2023 – present) Cognitive Neuroscience of Perception, Attention, and Memory Lab, University of California, Riverside\nMentor undergraduate research assistants on study design, data collection, and analysis of working memory experiments."
+    "section": "Research Mentoring & Lab Service",
+    "text": "Research Mentoring & Lab Service\nUndergraduate Research Mentor (2023 – present) Cognitive Neuroscience of Perception, Attention, and Memory Lab, University of California, Riverside\n\nTrain undergraduate research assistants in experimental procedures, participant testing, and data collection for studies of visual working memory and mnemonic discrimination.\nGuide data analysis and computational modeling, including MATLAB code, mixture-model fitting, visualization, and interpretation of behavioral results.\nMentor undergraduate teams in abstract writing, poster design, and presentation preparation for UCLA’s Psychology Undergraduate Research Conference, UCR’s Undergraduate Research & Creative Activities Symposium, and R’PSYC (2025–2026).\nProvide ongoing manuscript guidance to Kara Nguyen and Daniel Punzalan on working memory and mnemonic discrimination, including feedback on analyses, figures, scientific writing, and revisions for an undergraduate research journal submission.\nCoordinate research-assistant meetings, journal-club discussions, and onboarding and training with senior undergraduate researchers; support students in developing independent research and scientific communication skills."
   },
   {
     "objectID": "cv.html#additional-training",
@@ -110,6 +110,13 @@
     "title": "Inik Kim",
     "section": "",
     "text": "I am a Ph.D. student in the Department of Psychology at the University of California, Riverside, working in the Cognitive Neuroscience of Perception, Attention, and Memory Lab under the supervision of Dr. Weiwei Zhang.\nMy research broadly focuses on visual working memory, attention, and perception. I am particularly interested in understanding the underlying processes of human cognition and behavior, such as memory using cognitive modeling and advanced data analysis techniques.\nBefore joining UCR, I completed my B.A. and M.A. in Psychology at Jeonbuk National University (South Korea) , where I studied affective neuroscience and psychophysics with Dr. Jongwan Kim and Dr. Chang-Ho Park."
+  },
+  {
+    "objectID": "index.html#representative-work",
+    "href": "index.html#representative-work",
+    "title": "Inik Kim",
+    "section": "Representative Work",
+    "text": "Representative Work\nHow do memory systems compete, and what determines the quality of a remembered representation? These projects combine behavioral experiments with computational modeling. Select a figure to enlarge it.\n\n\nInterference between STM and LTM precision\nKim, Won, Acebo, & Zhang · VSS 2025 conference poster\nDistinguishing similar objects in long-term memory (LTM) can interfere with the precision of information held in short-term memory (STM). In a dual-task experiment, lure discrimination reduced the precision of orientation memory, while the model’s memory-success probability showed no detected difference across trial types. These behavioral findings support competition between mnemonic discrimination and STM precision.\n\n\n\nROC mixture-model estimates in Experiment 2 (n = 44). Lure trials reduced precision (d′) relative to target and foil trials; memory-success probability (Pm, labeled capacity) showed no detected difference.\n\n\nView VSS 2025 poster\n\n\nSeparating memory strength and precision with random-dot motion\nKim, Ma, Liu, & Zhang · VSS 2026 conference poster\nDoes a less accurate memory reflect a weaker signal or a less precise representation? Using a random-dot motion (RDM) recall task and a modified Target Confusability Competition model, we estimated memory strength (d′) and precision (κ) separately.\nMotion variability: Increasing directional noise from low to moderate levels reduced precision with little change in strength. At the highest noise level, both estimates worsened.\n\n\n\nExperiment 1 (n = 38): parameter estimates across motion-variability conditions and model comparisons. Between low and moderate noise, the model allowing precision to vary while fixing strength was preferred for 23 of 38 participants.\n\n\nMotion coherence: Higher coherence increased strength but decreased the estimated precision. Model comparisons favored a strength-varying, fixed-precision model for 27 of 36 participants. The pattern supports distinct effects of the two noise manipulations, while also showing a trade-off between the fitted parameters.\n\n\n\nExperiment 2 (n = 36): precision and strength estimates for low (80%) and high (100%) coherence, alongside model comparisons. Higher coherence increased strength and reduced the estimated precision.\n\n\nView VSS 2026 poster · Analysis code"
   },
   {
     "objectID": "index.html#research-interests",
