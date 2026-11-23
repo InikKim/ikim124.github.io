@@ -16,6 +16,9 @@ jobs:
  
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Build downloadable CV
+        run: python3 scripts/build-cv.py
  
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

@@ -28,8 +28,14 @@ Copy all these files into the repo folder.
 
 ### Step 5: Render locally (optional preview)
 ```bash
+python3 scripts/build-cv.py
 quarto preview
 ```
+
+The CV PDF is generated from `cv.qmd`. Run the build command after editing the
+CV; GitHub Actions also rebuilds it before publishing. The script uses Quarto
+and its bundled Typst renderer, without requiring LaTeX. On a Mac with RStudio,
+it can also use RStudio's bundled Quarto.
 
 ### Step 6: Publish to GitHub Pages
 ```bash

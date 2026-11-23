@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - Kim_Inik_cv_26.pdf
+    - pdfs/**
 
 website:
   title: "Inik Kim"

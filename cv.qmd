@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-*Last updated: February 2026* &nbsp; | &nbsp; [Download PDF](Kim_Inik_cv_26.pdf)
+*Last updated: November 2026* &nbsp; | &nbsp; [Download PDF](Kim_Inik_cv_26.pdf)
 
 ---
 
@@ -40,47 +40,148 @@ Department of Psychology, Jeonbuk National University
 
 ## Publications
 
+**2026**
+
+Ma, T., Golding, J., **Kim, I.**, Liu, S., Varastegan, S., Yang, L., & Zhang, W. (2026). [Beyond the Curve: Visual Working Memory and the Illusion of Understanding.](https://link.springer.com/article/10.1007/s42113-026-00320-9) *Computational Brain & Behavior*, 9, 381–383. [[Correction](https://link.springer.com/article/10.1007/s42113-026-00339-y)]
+
+---
+
+**2025**
+
+Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). [Attention is Still a Productive Framework.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/attention-is-still-a-productive-framework/3B5B7035DF40617DA70C350E3DC925D6) *Behavioral and Brain Sciences*, 48, e148.
+
+Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2025). [Discrimination of mnemonic similarity is associated with short-term and long-term memory precision.](https://link.springer.com/article/10.3758/s13421-024-01648-y) *Memory & Cognition*, 53, 1259–1271. [[Data & Code](https://osf.io/p9v4a/)]
+
+---
+
+**2024**
+
+**Kim, I.**, & Kim, J. (2024). Affective Representation of Behavioral and Physiological Responses to Emotional Videos using Wearable Devices. *The Korean Journal of Emotion & Sensibility*.
+
+Yang, I., **Kim, I.**, & Kim, J. (2024). Classifying and Representing Emotions based on EEG Data Collected with Wearable Devices. *The Korean Journal of Emotion and Sensibility*, 27(4), 63–72.
+
+---
+
+**2023**
+
+**Kim, I.**, Kim, H., & Kim, J. (2023). [Examining the consistency of continuous affect annotations and psychophysiological measures in response to emotional videos.](https://www.sciencedirect.com/science/article/abs/pii/S016787602300507X) *International Journal of Psychophysiology*, 193, 112242.
+
+Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tastes and intensity using multivariate analyses. *The Korean Journal of Emotion & Sensibility*, 26(2), 39–52.
+
+---
+
+**2022**
+
 **Kim, I.**, Kim, H., Jang, J., & Kim, J. (2022). Measuring consistency of affective responses to ASMR stimuli across individuals using intersubject correlation. *The Korean Journal of Cognitive and Biological Psychology*, 34(2), 121–133.
 
 **Kim, I.**, & Park, C. (2022). The influence of perceptual load on target identification and negative repetition effect in post-cueing forced choice task. *Korean Journal of Cognitive Science*, 33(1), 1–22.
 
-Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tastes and intensity using multivariate analyses. *The Korean Journal of Emotion & Sensibility*, 26(2), 39–52.
-
-**Kim, I.**, Kim, H., & Kim, J. (2023). Examining the consistency of continuous affect annotations and psychophysiological measures in response to emotional videos. *International Journal of Psychophysiology*, 193, 112242.
-
-**Kim, I.**, & Kim, J. (2024). Affective Representation of Behavioral and Physiological Responses to Emotional Videos using Wearable Devices. *The Korean Journal of Emotion & Sensibility*.
-
-Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). Discrimination of mnemonic similarity is associated with short-term and long-term memory precision. *Memory & Cognition*, 1–13.
-
-Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). Attention is Still a Productive Framework. *Behavioral and Brain Sciences*, 48, e148.
 
 ---
 
 ## Conference Presentations
 
-Ma, T., **Kim, I.**, Punzalan, D., & Zhang, W. (May 2026). Revisiting evidence against the discrete-capacity account of STM limits. Vision Science Society, St. Pete Beach, FL. *Poster.*
+### International
 
-**Kim, I.**, Ma, T., Liu, L., & Zhang, W. (May 2026). Dissociating Strength and Precision in Working Memory Representations. Vision Science Society, St. Pete Beach, FL. *Poster.*
+**2026**
 
-**Kim, I.**, Won, B.Y., Acebo, A., & Zhang, W. (May 2025). Direct Competition Between Hippocampal Pattern Separation and Short-Term Memory Precision. Vision Science Society, St. Pete Beach, FL. *Poster.*
+**Kim, I.** (presenter; July 2026). Dissociating Strength and Precision in Working Memory Representations for Motion. Poster presented at Unlocking New Horizons in Cognitive Modeling with Simulation-Based Inference, The Ohio State University, Columbus, OH.
 
-**Kim, I.**, & Zhang, W. (May 2024). Visual working memory for configural information. Vision Science Society, St. Pete Beach, FL. *Poster.*
+Ma, T., **Kim, I.**, Punzalan, D., & Zhang, W. (May 2026). Revisiting evidence against the discrete-capacity account of STM limits: objective guessing obscured by representational modeling. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2026_Ma_DiscreteCapacity.pdf)]
 
-**Kim, I.**, & Kim, J. (November 2022). Intersubject correlation of physiological responses to discrete emotions. Psychonomics, Boston, MA. *Poster.*
+**Kim, I.**, Ma, T., Liu, L., & Zhang, W. (May 2026). Dissociating Strength and Precision in Working Memory Representations: An Integrated Modeling Approach. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2026_TCCk_RDM_v1.5.pdf)] [[Code](https://github.com/InikKim/tcck-rdm-vss26)]
 
-Lee, S., **Kim, I.**, & Kim, J. (April 2022). Comparison between standard deviation and inter-subject correlation as individual consistency measures. Society and Affective Science, Virtual. *Poster.*
+---
 
-**Kim, I.**, Jang, J., & Kim, J. (November 2021). Measuring consistency between individuals of affective responses to ASMR stimuli. International Conference of Korean Emotion and Sensibility Society, Virtual. *Talk.*
+**2025**
 
-Lee, B., Gho, H., Cho, E., **Kim, I.**, Kim, H., & Kim, J. (August 2021). Effects of pleasant and unpleasant ASMR on working memory. Korean General Psychology Society, Virtual. *Poster.*
+**Kim, I.**, Won, B.Y., Acebo, A., & Zhang, W. (May 2025). Direct Competition Between Hippocampal Pattern Separation and Short-Term Memory Precision. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2025_Precision_MST_56w_v5.1.pdf)]
 
-Choi, Y., Choi, S., Lee, B., **Kim, I.**, & Kim, J. (August 2021). The effect of olfactory stimulation on emotional stability and working memory. Korean General Psychology Society, Virtual. *Poster.*
+---
 
-Gho, H., Choi, E., Kim, H., Jang, J., **Kim, I.**, & Kim, J. (August 2021). The differences in emotional experience by modality of ASMR. Korean General Psychology Society, Virtual. *Poster.*
+**2024**
 
-**Kim, I.**, Ji, S., & Park, C. (August 2021). The effect of auditory ASMR stimuli on the performance in the emotional Stroop task. Korean General Psychology Society, Virtual. *Poster.*
+**Kim, I.**, & Zhang, W. (May 2024). Visual working memory for configural information. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2024_Inik_v4.pdf)]
 
-**Kim, I.**, & Park, C. (August 2020). The influence on negative repetition effect of perceptual load. Korean Cognitive and Biological Psychology Society, Virtual. *Poster.*
+---
+
+**2022**
+
+**Kim, I.**, & Kim, J. (November 2022). Intersubject correlation of physiological responses to discrete emotions. Poster presented at Psychonomics, Boston, MA. [[PDF](pdfs/Psychonomics_poster_INIKKIM.pdf)]
+
+Lee, S., **Kim, I.**, & Kim, J. (April 2022). Comparison between standard deviation and inter-subject correlation as individual consistency measures using continuous emotional stimuli. Poster presented at the Annual Conference of the Society and Affective Science, Virtual.
+
+---
+
+**2021**
+
+**Kim, I.**, Jang, J., & Kim, J. (November 2021). Measuring consistency between individuals of affective responses to ASMR stimuli using inter-subject correlation. Talk presented at the International Conference of Korean Emotion and Sensibility Society, Virtual. [[Slides](pdfs/ASMR_ISC_Pres1025_02.pdf)]
+
+### National & University
+
+**2026**
+
+De Silva, R., Ospina, S., Jatana, S., Nguyen, K., Punzalan, D., Chang, M., Yang, V., Vemulpally, S., **Kim, I.**, & Zhang, W. (May 2026). Competition Between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at R'PSYC 2026 (8th Annual Undergraduate Psychology Research Conference, presented by Psi Chi), University of California, Riverside. [[PDF](pdfs/RPYSC2026.pdf)]
+
+Nguyen, K., Punzalan, D., Chang, M., De Silva, R., Ospina, S., Jatana, S., Attaluri, S., **Kim, I.**, & Zhang, W. (May 2026). The Dissociation between Capacity and Precision in Visual Working Memory for Motion. Poster presented at the Psychology Undergraduate Research Conference (PURC), University of California, Los Angeles. [[PDF](pdfs/UCLA2026_RDM_v1.3.pdf)]
+
+Nguyen, K., Chang, M., Punzalan, D., De Silva, R., Ospina, S., Yang, V., Vemulpally, S., **Kim, I.**, & Zhang, W. (April 2026). Competition Between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at the Undergraduate Research & Creative Activities Symposium, University of California, Riverside. [[PDF](pdfs/UGR_Poster_2026_V1.pdf)]
+
+---
+
+**2025**
+
+Yang, V., Nguyen, K., De Silva, R., Acebo, A., **Kim, I.**, & Zhang, W. (May 2025). The Effect of Working Memory Loads on Lure Discrimination in Long-Term Memory. Poster presented at R'PSYC 2025, University of California, Riverside. [[PDF](pdfs/RPSYC2025_WMLoads_LureDiscrimination.pdf)]
+
+Acebo, A., Yang, V., De Silva, R., Nguyen, K., **Kim, I.**, & Zhang, W. (May 2025). Direct Competition between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at the Psychology Undergraduate Research Conference (PURC), University of California, Los Angeles. [[PDF](pdfs/UCLA2025_PatternSeparation_v5.pdf)]
+
+---
+
+**2021**
+
+Lee, B., Gho, H., Cho, E., **Kim, I.**, Kim, H., & Kim, J. (August 2021). Effects of pleasant and unpleasant ASMR on working memory. Poster at the Annual Meeting of Korean General Psychology Society, Virtual.
+
+Choi, Y., Choi, S., Lee, B., **Kim, I.**, & Kim, J. (August 2021). The effect of olfactory stimulation on emotional stability and working memory. Poster at the Annual Meeting of Korean General Psychology Society, Virtual.
+
+Gho, H., Choi, E., Kim, H., Jang, J., **Kim, I.**, & Kim, J. (August 2021). The differences in emotional experience by modality of ASMR. Poster at the Annual Meeting of Korean General Psychology Society, Virtual.
+
+**Kim, I.**, Ji, S., & Park, C. (August 2021). The effect of auditory ASMR stimuli on the performance in the emotional Stroop task. Poster at the Annual Meeting of Korean General Psychology Society, Virtual.
+
+---
+
+**2020**
+
+**Kim, I.**, & Park, C. (August 2020). The influence on negative repetition effect of perceptual load. Poster at the Annual Meeting of Korean Cognitive and Biological Psychology Society, Virtual.
+
+
+---
+
+## Teaching Experience
+
+**Teaching Assistant, PSYC 134** *(2023 – present)*
+University of California, Riverside
+Instructors: Dr. Weiwei Zhang, Dr. Halle Dimsdale-Zucker, and Dr. Ilana Bennett
+
+**Teaching Assistant, PSYC 189** *(2024 – present)*
+University of California, Riverside
+Instructor: Dr. Ian Ballard
+
+---
+
+## Service & Mentoring
+
+**Undergraduate Research Mentor** *(2023 – present)*
+Cognitive Neuroscience of Perception, Attention, and Memory Lab, University of California, Riverside
+
+Mentor undergraduate research assistants on study design, data collection, and analysis of working memory experiments.
+
+---
+
+## Additional Training
+
+**Unlocking New Horizons in Cognitive Modeling with Simulation-Based Inference** *(July 27–31, 2026)*
+The Ohio State University, Columbus, OH
+Completed the five-day, in-person summer school.
 
 ---
 

@@ -10,7 +10,7 @@ For a full list, see my [Google Scholar](https://scholar.google.com/citations?us
 
 **2026**
 
-Ma, T., Golding, J., **Kim, I.**, Liu, S., & Varastegan, S. (2026). [Beyond the Curve: Visual Working Memory and the Illusion of Understanding.](https://link.springer.com/article/10.1007/s42113-026-00320-9) *Computational Brain & Behavior*.
+Ma, T., Golding, J., **Kim, I.**, Liu, S., Varastegan, S., Yang, L., & Zhang, W. (2026). [Beyond the Curve: Visual Working Memory and the Illusion of Understanding.](https://link.springer.com/article/10.1007/s42113-026-00320-9) *Computational Brain & Behavior*, 9, 381–383. [[Correction](https://link.springer.com/article/10.1007/s42113-026-00339-y)]
 
 ---
 
@@ -18,11 +18,11 @@ Ma, T., Golding, J., **Kim, I.**, Liu, S., & Varastegan, S. (2026). [Beyond the 
 
 Ma, T., **Kim, I.**, Varastegan, S., Yang, L., Golding, J., & Zhang, W. (2025). [Attention is Still a Productive Framework.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/attention-is-still-a-productive-framework/3B5B7035DF40617DA70C350E3DC925D6) *Behavioral and Brain Sciences*, 48, e148.
 
+Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2025). [Discrimination of mnemonic similarity is associated with short-term and long-term memory precision.](https://link.springer.com/article/10.3758/s13421-024-01648-y) *Memory & Cognition*, 53, 1259–1271. [[Data & Code](https://osf.io/p9v4a/)]
+
 ---
 
 **2024**
-
-Xie, W., Ma, T., Thakurdesai, S., **Kim, I.**, & Zhang, W. (2024). [Discrimination of mnemonic similarity is associated with short-term and long-term memory precision.](https://link.springer.com/article/10.3758/s13421-024-01648-y) *Memory & Cognition*, 1–13.
 
 **Kim, I.**, & Kim, J. (2024). Affective Representation of Behavioral and Physiological Responses to Emotional Videos using Wearable Devices. *The Korean Journal of Emotion & Sensibility*.
 
@@ -53,6 +53,8 @@ Park, C., **Kim, I.**, & Kim, J. (2023). Affective representations of basic tast
 ### International
 
 **2026**
+
+**Kim, I.** (presenter; July 2026). Dissociating Strength and Precision in Working Memory Representations for Motion. Poster presented at Unlocking New Horizons in Cognitive Modeling with Simulation-Based Inference, The Ohio State University, Columbus, OH.
 
 Ma, T., **Kim, I.**, Punzalan, D., & Zhang, W. (May 2026). Revisiting evidence against the discrete-capacity account of STM limits: objective guessing obscured by representational modeling. Poster presented at the Annual Conference of the Vision Science Society, St. Pete Beach, FL. [[PDF](pdfs/VSS2026_Ma_DiscreteCapacity.pdf)]
 
@@ -97,6 +99,8 @@ Nguyen, K., Chang, M., Punzalan, D., De Silva, R., Ospina, S., Yang, V., Vemulpa
 ---
 
 **2025**
+
+Yang, V., Nguyen, K., De Silva, R., Acebo, A., **Kim, I.**, & Zhang, W. (May 2025). The Effect of Working Memory Loads on Lure Discrimination in Long-Term Memory. Poster presented at R'PSYC 2025, University of California, Riverside. [[PDF](pdfs/RPSYC2025_WMLoads_LureDiscrimination.pdf)]
 
 Acebo, A., Yang, V., De Silva, R., Nguyen, K., **Kim, I.**, & Zhang, W. (May 2025). Direct Competition between Working Memory Precision and Hippocampal Pattern Separation. Poster presented at the Psychology Undergraduate Research Conference (PURC), University of California, Los Angeles. [[PDF](pdfs/UCLA2025_PatternSeparation_v5.pdf)]
 
