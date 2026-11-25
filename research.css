@@ -53,15 +53,36 @@
   margin-top: 0;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
   .profile-layout {
     grid-template-columns: minmax(0, 1fr);
     gap: 1.5rem;
   }
 
+  /* Read the introduction immediately after the photo on phones. */
+  .profile-sidebar,
   .profile-main {
-    border-left: 0;
-    padding-left: 0;
+    display: contents;
+  }
+
+  .profile-sidebar > .about-entity {
+    grid-row: 1;
+  }
+
+  .profile-main > section:first-child {
+    grid-row: 2;
+  }
+
+  .profile-sidebar > #research-interests {
+    grid-row: 3;
+  }
+
+  .profile-sidebar > #education {
+    grid-row: 4;
+  }
+
+  .profile-main > #representative-work {
+    grid-row: 5;
   }
 }
 
