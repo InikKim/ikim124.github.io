@@ -1,3 +1,70 @@
+/* About page: profile details on the left, biography and work on the right. */
+.profile-layout {
+  display: grid;
+  grid-template-columns: minmax(250px, 0.85fr) minmax(0, 1.65fr);
+  gap: 2.5rem;
+  margin-top: 2rem;
+}
+
+.profile-sidebar,
+.profile-main {
+  min-width: 0;
+}
+
+.profile-sidebar .about-entity {
+  text-align: center;
+}
+
+.profile-sidebar .profile-image {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 1.5rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.profile-sidebar .about-links p {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.profile-sidebar .about-links a {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 0.85rem;
+}
+
+.profile-sidebar h2 {
+  font-size: 1.35rem;
+}
+
+.profile-sidebar ul {
+  padding-left: 1.2rem;
+}
+
+.profile-main {
+  border-left: 1px solid #d0e4f4;
+  padding-left: 2rem;
+}
+
+.profile-main > section:first-child > h2 {
+  margin-top: 0;
+}
+
+@media (max-width: 991px) {
+  .profile-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+
+  .profile-main {
+    border-left: 0;
+    padding-left: 0;
+  }
+}
+
 /* Original poster figures on the About page. */
 .representative-work .research-project {
   margin: 1.5rem 0 2rem;

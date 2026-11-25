@@ -83,6 +83,24 @@ a:hover {
 }
 
 /* ── Publications ── */
+/* Keep conference entries secondary to journal articles on Publications and CV. */
+#conference-presentations {
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+#conference-presentations p {
+  margin-bottom: 0.65rem;
+}
+
+#conference-presentations h3 {
+  font-size: 1.15rem;
+}
+
+#conference-presentations .nav-link {
+  font-size: 0.9rem;
+}
+
 p strong {
   color: #1a3a5c;
 }
