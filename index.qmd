@@ -53,11 +53,7 @@ Jeonbuk National University, South Korea
 
 I am a Ph.D. student in the [Department of Psychology](https://psychology.ucr.edu/) at the **University of California, Riverside**, working in the [Cognitive Neuroscience of Perception, Attention, and Memory Lab](https://memory.ucr.edu/) under the supervision of **Dr. Weiwei Zhang**.
 
-<<<<<<< Updated upstream
-My research broadly focuses on **visual representations** using psychophyscis, computational modeling, and ERP. 
-=======
-My research broadly focuses on visual representation using psychophysics, computational modeling, and ERP.
->>>>>>> Stashed changes
+My research broadly focuses on **visual representations** using psychophysics, computational modeling, and ERP.
 
 Before joining UCR, I completed my B.A. and M.A. in Psychology at [Jeonbuk National University](https://psy.jbnu.ac.kr/psy/index.do) (South Korea) , where I studied affective neuroscience and psychophysics with Dr. Jongwan Kim and Dr. Chang-Ho Park.
 
