@@ -24,8 +24,13 @@ def main():
     body = re.sub(r"\A---\n.*?\n---\n", "", source, count=1, flags=re.S)
     body = re.sub(r" &nbsp; \| &nbsp; \[Download PDF\]\([^)]*\)", "", body)
     body = re.sub(r"^---\s*$", "", body, flags=re.M)
-    # Start the long presentation list together with its heading.
-    body = body.replace("## Conference Presentations", "```{=typst}\n#pagebreak()\n```\n\n## Conference Presentations", 1)
+    # Conference entries are secondary to papers; limit smaller text to this section.
+    body = body.replace(
+        "## Conference Presentations",
+        "```{=typst}\n#pagebreak()\n#block[\n#set text(size: 8.5pt)\n```\n\n## Conference Presentations",
+        1,
+    )
+    body = body.replace("## Teaching Experience", "```{=typst}\n]\n```\n\n## Teaching Experience", 1)
     # Relative web downloads should remain useful in a standalone PDF.
     body = re.sub(r"\]\((pdfs/[^)]+)\)", lambda m: "](" + SITE + m[1] + ")", body)
     header = '''---

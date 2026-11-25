@@ -2,22 +2,52 @@
 title: ""
 page-layout: full
 lightbox: true
-about:
-  template: trestles
-  image: profile.jpg
-  image-shape: round
-  image-width: 200px
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:ikim124@ucr.edu
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=Op0POqIAAAAJ&hl=en&oi=ao
-    - icon: github
-      text: GitHub
-      href: https://github.com/InikKim
 ---
+
+::::::: {.profile-layout}
+
+:::::: {.profile-sidebar role="complementary" aria-label="Profile, research interests, and education"}
+
+::: {.about-entity}
+
+![Inik Kim](profile.jpg){.profile-image width=200 height=200}
+
+::: {.about-links}
+
+[<i class="bi bi-envelope" aria-hidden="true"></i> Email](mailto:ikim124@ucr.edu)
+[<i class="bi bi-google" aria-hidden="true"></i> Google Scholar](https://scholar.google.com/citations?user=Op0POqIAAAAJ&hl=en&oi=ao)
+[<i class="bi bi-github" aria-hidden="true"></i> GitHub](https://github.com/InikKim)
+
+:::
+
+:::
+
+## Research Interests
+
+- Visual Working Memory
+- Computational Modeling
+- Cognitive Neuroscience
+- Attention & Perception
+- Affective Neuroscience
+
+---
+
+## Education
+
+**Ph.D. in Psychology** *(2023 – present)*  
+University of California, Riverside, USA  
+Advisor: Dr. Weiwei Zhang
+
+**M.A. in Psychology** *(2018 – 2020)*  
+Jeonbuk National University, South Korea  
+Advisor: Dr. Chang-Ho Park
+
+**B.A. in Psychology** *(2011 – 2017)*  
+Jeonbuk National University, South Korea
+
+::::::
+
+:::::: {.profile-main}
 
 ## Hi, I'm Inik Kim (ikim124@ucr.edu)
 
@@ -71,27 +101,6 @@ Does a less accurate memory reflect a weaker signal or a less precise representa
 
 ::::
 
----
+::::::
 
-## Research Interests
-
-- Visual Working Memory
-- Computational Modeling
-- Cognitive Neuroscience
-- Attention & Perception
-- Affective Neuroscience
-
----
-
-## Education
-
-**Ph.D. in Psychology** *(2023 – present)*
-University of California, Riverside, USA
-Advisor: Dr. Weiwei Zhang
-
-**M.A. in Psychology** *(2018 – 2020)*
-Jeonbuk National University, South Korea
-Advisor: Dr. Chang-Ho Park
-
-**B.A. in Psychology** *(2011 – 2017)*
-Jeonbuk National University, South Korea
+:::::::
